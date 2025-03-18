@@ -1,7 +1,7 @@
-# matplotlib
+### matplotlib
 ## All Contents of matplotlib playlist
-
-# 📊 Matplotlib Day_01 | Python Data Visualization | Bangla Tutorial | Matplotlib Introduction | Bangla | Visualization Chart | Dropout programmer | Library | Dimension
+--- 
+### 📊 Matplotlib Day_01 | Python Data Visualization | Bangla Tutorial | Matplotlib Introduction | Bangla | Visualization Chart | Dropout programmer | Library | Dimension
 
 Welcome to **Matplotlib Day_01**!  
 এই সেশনে আমরা আলোচনা করেছি —  
@@ -13,22 +13,20 @@ Welcome to **Matplotlib Day_01**!
 ✅ Matplotlib দিয়ে প্রথম Line Chart তৈরি (Practical Example)
 
 ---
-
 ## 📚 Resources - Notes, Slides & Video
 
-### 📓 **Jupyter Notebook (IPYNB)**
+## 📓 **Jupyter Notebook (IPYNB)**
 [Download Notebook](https://github.com/DropoutProgrammer/DataVizBangla/raw/main/Matplotlib_Day_01_Notebook.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DropoutProgrammer/DataVizBangla/blob/main/Matplotlib_Day_01_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/Matplotlib_01.ipynb)
 
+## 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_01)
 
-### 📝 **Class Notes (PDF)**
-[Download Notes](#)
+## 📑 **PPT Slides**
+[Download PPT](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_01)
 
-### 📑 **PPT Slides**
-[Download PPT](#)
-
-### 🎥 **Video Link**
-👉 [Watch the Full Video on YouTube]((https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX))
+## 🎥 **Video Link**
+👉 [Watch the Full Video on YouTube](https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX)
 
 ---
 
