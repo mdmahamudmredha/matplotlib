@@ -16,7 +16,6 @@ Welcome to **Matplotlib Day_01**!
 ## 📚 Resources - Notes, Slides & Video
 
 ## 📓 **Jupyter Notebook (IPYNB)**
-[Download Notebook](https://github.com/DropoutProgrammer/DataVizBangla/raw/main/Matplotlib_Day_01_Notebook.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/Matplotlib_01.ipynb)
 
 ## 📝 **Class Notes (PDF)**
