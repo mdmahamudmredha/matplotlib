@@ -16,6 +16,11 @@ Welcome to **Matplotlib Day_01**!
 
 ## 📚 Resources - Notes, Slides & Video
 
+### 📓 **Jupyter Notebook (IPYNB)**
+[Download Notebook](https://github.com/DropoutProgrammer/DataVizBangla/raw/main/Matplotlib_Day_01_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DropoutProgrammer/DataVizBangla/blob/main/Matplotlib_Day_01_Notebook.ipynb)
+
+
 ### 📝 **Class Notes (PDF)**
 [Download Notes](#)
 
@@ -23,7 +28,7 @@ Welcome to **Matplotlib Day_01**!
 [Download PPT](#)
 
 ### 🎥 **Video Link**
-👉 [Watch the Full Video on YouTube]([https://youtu.be/your_video_link](https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX))
+👉 [Watch the Full Video on YouTube]((https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX))
 
 ---
 
@@ -35,9 +40,9 @@ Explore the full series here —
 
 ## ❤️ Stay Connected
 ভিডিও ভালো লাগলে অবশ্যই ⭐ **Star** দিবেন,  
-**Subscribe** করবে আর **Comment** করে জানাবে কেমন লাগলো।
+**Subscribe** করবে আর **Comment** করে জানাবেন কেমন লাগলো।
 
-**Bangla Data Science & Machine Learning Series** - শুধুই তোমাদের জন্য।
+**Bangla Data Science & Machine Learning Series** - শুধুই আপনাদের জন্য।
 
 ---
 
