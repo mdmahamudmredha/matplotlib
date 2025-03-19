@@ -22,7 +22,7 @@ Welcome to **Matplotlib Day_01**!
 [Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_01)
 
 ## 📑 **PPT Slides**
-[Download PPT](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_01)
+[Download PPT](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/matplotlib_01.pdf)
 
 ## 🎥 **Video Link**
 👉 [Watch the Full Video on YouTube](https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX)
