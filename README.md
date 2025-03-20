@@ -44,7 +44,7 @@ Welcome to **Matplotlib Day_01**!
 
 ---
 
-# 📊 Matplotlib Day_02 | Python Data Visualization | Bangla Tutorial
+# 📊 Matplotlib Day_02 | Python Data Visualization | Bangla Tutorial | Matplotlib marker parameter | Bangla | points + line Visualization Chart | Dropout programmer
 
 Welcome to **Matplotlib Day_02**!  
 
