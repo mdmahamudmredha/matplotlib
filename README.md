@@ -1,14 +1,20 @@
 # matplotlib
 ## All Contents of matplotlib playlist
+
 ---
+
 <p align="center">
   <img src="https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib.png" width="500"/>
 </p>
+
 --- 
+
 ## 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
-👉 [Matplotlib Full Playlist on YouTube - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
+👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
+
 ---
+
 ### 📊 Matplotlib Day_01 | Python Data Visualization | Bangla Tutorial | Matplotlib Introduction | Bangla | Visualization Chart | Dropout programmer | Library | Dimension
 
 Welcome to **Matplotlib Day_01**!  
@@ -21,6 +27,7 @@ Welcome to **Matplotlib Day_01**!
 ✅ Matplotlib দিয়ে প্রথম Line Chart তৈরি (Practical Example)
 
 ---
+
 ## 📚 Resources - Notes, Slides & Video
 
 ## 📓 **Jupyter Notebook (IPYNB)**
@@ -66,9 +73,11 @@ Welcome to **Matplotlib Day_02**!
 👉 [Watch the Full Video on YouTube](https://youtu.be/SuvQf5H9ymQ?si=yUucFU0aRz3G-p7u)
 
 ---
+
 ## 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
+
 ---
 
 ## ❤️ Stay Connected
