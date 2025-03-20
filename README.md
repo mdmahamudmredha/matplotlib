@@ -26,9 +26,10 @@ Welcome to **Matplotlib Day_01**!
 ✅ Installation Process  
 ✅ Matplotlib দিয়ে প্রথম Line Chart তৈরি (Practical Example)
 
----
-
 ## 📚 Resources - Notes, Slides & Video
+
+## 🎥 **Video Link Matplotlib Day_01**
+👉 [Watch the Full Video on YouTube](https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX)
 
 ## 📓 **Jupyter Notebook (IPYNB)**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/Matplotlib_01.ipynb)
@@ -38,9 +39,6 @@ Welcome to **Matplotlib Day_01**!
 
 ## 📑 **PPT Slides**
 [Download PPT](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/matplotlib_01.pdf)
-
-## 🎥 **Video Link**
-👉 [Watch the Full Video on YouTube](https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX)
 
 ---
 
@@ -54,9 +52,10 @@ Welcome to **Matplotlib Day_02**!
 ✅ **M Shape এর Points** কীভাবে নির্ধারণ করা হয়  
 ✅ **Points দেখানো কেন গুরুত্বপূর্ণ** — Data Visualization-এ এর Impact  
 
----
-
 ## 📚 Resources - Notes, Slides & Video
+
+## 🎥 **Video Link Matplotlib Day_02**
+👉 [Watch the Full Video on YouTube](https://youtu.be/SuvQf5H9ymQ?si=yUucFU0aRz3G-p7u)
 
 ### 📝 **Class Notes (PDF)**
 [Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_02)
@@ -66,11 +65,6 @@ Welcome to **Matplotlib Day_02**!
 
 ### 📓 **Jupyter Notebook (IPYNB)**
 [Download Notebook](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_02/Matplotlib_all.ipynb)
-
----
-
-## 🎥 **Video Link**
-👉 [Watch the Full Video on YouTube](https://youtu.be/SuvQf5H9ymQ?si=yUucFU0aRz3G-p7u)
 
 ---
 
@@ -85,9 +79,10 @@ Welcome to **Matplotlib Day_03**!
 ✅ **Independent & Dependent variable** - Graph এ তাদের ভূমিকা  
 ✅ কিভাবে Python দিয়ে **y = x²** graph plot করা যায় এবং এর ব্যাখ্যা  
 
----
-
 ## 📚 Resources - Notes, Slides & Video
+
+## 🎥 **Video Link Matplotlib Day_03**
+👉 [Watch the Full Video on YouTube](https://youtu.be/IcXfXBAhbDY?si=UabqrNq92PruEl85)
 
 ### 📝 **Class Notes (PDF)**
 [Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_03)
@@ -97,11 +92,6 @@ Welcome to **Matplotlib Day_03**!
 
 ### 📓 **Jupyter Notebook (IPYNB)**
 [Download Notebook](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_03/Matplotlib_all.ipynb)
-
----
-
-## 🎥 **Video Link**
-👉 [Watch the Full Video on YouTube](https://youtu.be/SuvQf5H9ymQ?si=yUucFU0aRz3G-p7u)
 
 ---
 
