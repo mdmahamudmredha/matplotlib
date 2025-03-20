@@ -74,6 +74,37 @@ Welcome to **Matplotlib Day_02**!
 
 ---
 
+### 📊 Matplotlib Day_03 | Python Data Visualization | Bangla Tutorial | Matplotlib Single Parameter | Bangla | Plot Point & y = x² Graph | Dropout programmer
+
+Welcome to **Matplotlib Day_03**!  
+
+এই সেশনে আমরা নিচের গুরুত্বপূর্ণ টপিকগুলো নিয়ে আলোচনা করেছি এবং প্র্যাকটিক্যাল উদাহরণ দেখেছি —  
+✅ যখন আমরা `plt.plot()`-এ **একটাই parameter** pass করি তখন কি হয়?  
+✅ কিভাবে **শুধু একটি point** plot করা যায়  
+✅ **List vs NumPy Array** - কোনটা কিভাবে কাজ করে?  
+✅ **Independent & Dependent variable** - Graph এ তাদের ভূমিকা  
+✅ কিভাবে Python দিয়ে **y = x²** graph plot করা যায় এবং এর ব্যাখ্যা  
+
+---
+
+## 📚 Resources - Notes, Slides & Video
+
+### 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_03)
+
+### 📑 **PPT Slides**
+[Download PPT](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_03)
+
+### 📓 **Jupyter Notebook (IPYNB)**
+[Download Notebook](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_03/Matplotlib_all.ipynb)
+
+---
+
+## 🎥 **Video Link**
+👉 [Watch the Full Video on YouTube](https://youtu.be/SuvQf5H9ymQ?si=yUucFU0aRz3G-p7u)
+
+---
+
 ## 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
