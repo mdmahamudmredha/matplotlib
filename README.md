@@ -95,6 +95,35 @@ Welcome to **Matplotlib Day_03**!
 
 ---
 
+### 📊 Matplotlib Day_04 | Python Data Visualization | Bangla Tutorial | Line Chart vs Scatter plot Different Case | Bangla | Visualization | Dropout Programmer
+
+Welcome to **Matplotlib Day_04**!  
+
+এই সেশনে আমরা নিচের গুরুত্বপূর্ণ টপিকগুলো নিয়ে আলোচনা করেছি এবং প্র্যাকটিক্যাল উদাহরণ দেখেছি —  
+✅ **Line Chart vs Scatter Plot** - মূল পার্থক্য কী?  
+✅ কোন কোন ক্ষেত্রে **Line Chart** ব্যবহার করবো  
+✅ কোথায় **Scatter Plot** বেশি কার্যকর  
+✅ Practical Example দিয়ে বোঝানো হয়েছে - কোন Chart কবে ব্যবহার করবো  
+✅ Real-life Data Visualization use-case
+
+---
+
+## 📚 Resources - Notes, Slides & Video
+
+## 🎥 **Video Link Matplotlib Day_04**
+👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=l3iqEa8VWek)  
+
+### 📝 **Class Notes (PDF)**
+[Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_04)
+
+### 📑 **PPT Slides**
+[Download PPT](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_04)
+
+### 📓 **Jupyter Notebook (IPYNB)**
+[Download Notebook](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_04/Matplotlib_all.ipynb)
+
+---
+
 ## 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
