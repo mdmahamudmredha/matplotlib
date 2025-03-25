@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib.png" width="500"/>
+  <img src="https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib.png" width="800"/>
 </p>
 
 --- 
