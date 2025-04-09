@@ -4,20 +4,28 @@
 
 ## 🖼️ Output Image Previews
 
-1. **Basic Line Plot**
-   ![Basic Line Plot](https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image.png)
+<p align="center">
+  <img src="(https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image.png" width="800"/>
+</p>
+   
    
 
 2. **Line Plot with Marker**
-   ![Line Plot with Marker](https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image2.png)
+  <p align="center">
+  <img src="(https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image2.png" width="800"/>
+</p>
    - এখানে আমরা marker ব্যবহার করেছি: যেমন `'o'`, `'x'`, `'s'` ইত্যাদি।
 
 3. **Customized Color and Style**
-   ![Customized Line](https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image3.png)
+   <p align="center">
+  <img src="(https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image3.png" width="800"/>
+</p>
    - এই চিত্রে `color`, `linestyle`, `linewidth`, এবং `alpha` parameter কিভাবে কাজ করে তা দেখানো হয়েছে।
 
 4. **Multiple Lines with Labels**
-   ![Multiple Lines](https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image4.png)
+   <p align="center">
+  <img src="(https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/image4.png" width="800"/>
+</p>
    - একাধিক লাইন প্লট করে `label` এবং `legend()` ব্যবহার করা হয়েছে — খুবই গুরুত্বপূর্ণ feature।
 
 ---
