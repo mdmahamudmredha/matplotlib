@@ -1,0 +1,18 @@
+
+
+✅ 🔟 + 2 Most Commonly Used Parameters of plt.plot() with Examples
+SL	Parameter	Description	Example
+1️⃣	x	X-axis ডেটার list বা array	x = [1, 2, 3]
+2️⃣	y	Y-axis ডেটার list বা array	y = [4, 5, 6]
+plt.plot(x, y)
+3️⃣	color or c	লাইন বা মার্কারের রং	plt.plot(x, y, color='red')
+4️⃣	linestyle or ls	লাইনের ধরন (solid, dashed, dotted...)	plt.plot(x, y, linestyle='--')
+5️⃣	linewidth or lw	লাইনের পুরুত্ব	plt.plot(x, y, linewidth=3)
+6️⃣	marker	প্রতিটি ডেটা পয়েন্টে মার্কার	plt.plot(x, y, marker='o')
+7️⃣	markersize or ms	মার্কারের সাইজ	plt.plot(x, y, marker='o', markersize=10)
+8️⃣	markerfacecolor or mfc	মার্কারের ভিতরের রং	plt.plot(x, y, marker='o', mfc='yellow')
+9️⃣	markeredgecolor or mec	মার্কারের চারপাশের রং	plt.plot(x, y, marker='o', mec='black')
+🔟	label	Legend এ নাম দেখাতে	plt.plot(x, y, label='My Data')
+plt.legend()
+🔸	alpha	transparency (0.0 = invisible, 1.0 = solid)	plt.plot(x, y, alpha=0.5)
+🔸	zorder	Layer level (higher = upper layer)	plt.plot(x, y, zorder=3)
