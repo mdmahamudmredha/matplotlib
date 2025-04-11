@@ -122,6 +122,33 @@ Welcome to **Matplotlib Day_04**!
 
 ---
 
+### 📊 **Matplotlib Day_05 | Plot() Parameters | Set Title | xyLabel | Bangla Tutorial | Visualization | Dropout Programmer**
+
+Welcome to **Matplotlib Day_05**!
+
+এই সেশনে আমরা নিচের গুরুত্বপূর্ণ টপিকগুলো নিয়ে আলোচনা করেছি এবং প্র্যাকটিক্যাল উদাহরণ দেখেছি —  
+✅ **Plot() Parameters** - কীভাবে plot() ফাংশন ব্যবহার করা হয়  
+✅ **Set Title** - গ্রাফে শিরোনাম সেট করার নিয়ম  
+✅ **Set XY Labels** - এক্স এবং ওয়াই অক্ষের লেবেল কিভাবে সেট করবেন  
+✅ Practical Example দিয়ে বোঝানো হয়েছে - কোন Chart কবে ব্যবহার করবো এবং গ্রাফে টাইটেল ও লেবেল কিভাবে যোগ করবেন  
+✅ Real-life Data Visualization use-case
+
+### 📚 **Resources - Notes, Slides & Video**
+
+### 🎥 **Video Link Matplotlib Day_05**  
+👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=examplelink)
+
+### 📝 **Class Notes (PDF)**  
+[Download Notes](https://github.com/mdmahamudmredha/matplotlib/tree/main/Matplotlib_Day_05)
+
+### 📑 **PPT Slides**  
+[Download PPT](https://github.com/mdmahamudmredha/matplotlib/tree/main/Matplotlib_Day_05)
+
+### 📓 **Jupyter Notebook (IPYNB)**  
+[Download Notebook](https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_05/Matplotlib_all.ipynb)
+
+---
+
 ### 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
