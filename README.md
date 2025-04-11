@@ -105,7 +105,6 @@ Welcome to **Matplotlib Day_04**!
 ✅ Practical Example দিয়ে বোঝানো হয়েছে - কোন Chart কবে ব্যবহার করবো  
 ✅ Real-life Data Visualization use-case
 
----
 
 ### 📚 Resources - Notes, Slides & Video
 
