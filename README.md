@@ -51,9 +51,9 @@ Welcome to **Matplotlib Day_02**!
 ✅ **M Shape এর Points** কীভাবে নির্ধারণ করা হয়  
 ✅ **Points দেখানো কেন গুরুত্বপূর্ণ** — Data Visualization-এ এর Impact  
 
-## 📚 Resources - Notes, Slides & Video
+### 📚 Resources - Notes, Slides & Video
 
-## 🎥 **Video Link Matplotlib Day_02**
+### 🎥 **Video Link Matplotlib Day_02**
 👉 [Watch the Full Video on YouTube](https://youtu.be/SuvQf5H9ymQ?si=yUucFU0aRz3G-p7u)
 
 ### 📝 **Class Notes (PDF)**
@@ -78,9 +78,9 @@ Welcome to **Matplotlib Day_03**!
 ✅ **Independent & Dependent variable** - Graph এ তাদের ভূমিকা  
 ✅ কিভাবে Python দিয়ে **y = x²** graph plot করা যায় এবং এর ব্যাখ্যা  
 
-## 📚 Resources - Notes, Slides & Video
+### 📚 Resources - Notes, Slides & Video
 
-## 🎥 **Video Link Matplotlib Day_03**
+### 🎥 **Video Link Matplotlib Day_03**
 👉 [Watch the Full Video on YouTube](https://youtu.be/IcXfXBAhbDY?si=UabqrNq92PruEl85)
 
 ### 📝 **Class Notes (PDF)**
@@ -107,9 +107,9 @@ Welcome to **Matplotlib Day_04**!
 
 ---
 
-## 📚 Resources - Notes, Slides & Video
+### 📚 Resources - Notes, Slides & Video
 
-## 🎥 **Video Link Matplotlib Day_04**
+### 🎥 **Video Link Matplotlib Day_04**
 👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=l3iqEa8VWek)  
 
 ### 📝 **Class Notes (PDF)**
@@ -123,13 +123,13 @@ Welcome to **Matplotlib Day_04**!
 
 ---
 
-## 🔗 **Matplotlib Full Playlist**
+### 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
 
 ---
 
-## ❤️ Stay Connected
+### ❤️ Stay Connected
 ভিডিও ভালো লাগলে অবশ্যই ⭐ **Star** দিবেন,  
 **Subscribe** করবে আর **Comment** করে জানাবেন কেমন লাগলো।
 
