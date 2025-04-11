@@ -7,9 +7,8 @@
   <img src="https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib.png" width="800"/>
 </p>
 
---- 
 
-## 🔗 **Matplotlib Full Playlist**
+### 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
 
