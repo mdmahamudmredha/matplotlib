@@ -136,7 +136,7 @@ Welcome to **Matplotlib Day_05**!
 ### 📚 **Resources - Notes, Slides & Video**
 
 ### 🎥 **Video Link Matplotlib Day_05**  
-👉 [Watch the Full Video on YouTube](https://www.youtube.com/watch?v=examplelink)
+👉 [Watch the Full Video on YouTube](https://youtu.be/EB4uXH1UnXM?si=3riCkabRvpzh7Prm)
 
 ### 📝 **Class Notes (PDF)**  
 [Download Notes](https://github.com/mdmahamudmredha/matplotlib/tree/main/Matplotlib_Day_05)
