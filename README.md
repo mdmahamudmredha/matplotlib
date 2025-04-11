@@ -26,18 +26,18 @@ Welcome to **Matplotlib Day_01**!
 ✅ Installation Process  
 ✅ Matplotlib দিয়ে প্রথম Line Chart তৈরি (Practical Example)
 
-## 📚 Resources - Notes, Slides & Video
+### 📚 Resources - Notes, Slides & Video
 
-## 🎥 **Video Link Matplotlib Day_01**
+### 🎥 **Video Link Matplotlib Day_01**
 👉 [Watch the Full Video on YouTube](https://youtu.be/zcndSEyxveM?si=oWt5YNEfUhpv0YJX)
 
-## 📓 **Jupyter Notebook (IPYNB)**
+### 📓 **Jupyter Notebook (IPYNB)**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/Matplotlib_01.ipynb)
 
-## 📝 **Class Notes (PDF)**
+### 📝 **Class Notes (PDF)**
 [Download Notes](https://github.com/mahamud-13756/matplotlib/tree/main/Matplotlib_Day_01)
 
-## 📑 **PPT Slides**
+### 📑 **PPT Slides**
 [Download PPT](https://github.com/mahamud-13756/matplotlib/blob/main/Matplotlib_Day_01/matplotlib_01.pdf)
 
 ---
