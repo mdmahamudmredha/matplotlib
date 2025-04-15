@@ -180,7 +180,7 @@ Welcome to **Matplotlib Day_05**!
 👉 [Watch the Full Video on YouTube](https://youtu.be/I7tUcsjtv5s?si=Cov_Iypmd7viJxZj)
 
 📓 **Jupyter Notebook (IPYNB)**  
-[🔗 Open in Colab](https://colab.research.google.com/) `# এখানে তোমার কোডের লিংক দিলে ভালো হয়`
+[🔗 Open in Colab](https://github.com/mdmahamudmredha/matplotlib/blob/main/Matplotlib_Day_06/Matplotlib_all.ipynb)
 
 📝 **Class Notes (PDF)**  
 📥 [Download Notes](#)
