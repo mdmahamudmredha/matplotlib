@@ -149,6 +149,47 @@ Welcome to **Matplotlib Day_05**!
 
 ---
 
+### 📊 Matplotlib Day_06 | Scatter Plot | Grid | Clustering | Correlation | Outlier | Bangla | Dropout Programmer
+
+🎉 **Welcome to Matplotlib Day_06!**
+
+এই সেশনে আমরা আলোচনা করেছি —
+
+✅ Scatter Plot কি এবং কবে ব্যবহার করা হয়  
+✅ দুইটি ভ্যারিয়েবলের মধ্যে সম্পর্ক খুঁজে বের করার পদ্ধতি  
+✅ Grid কী এবং কিভাবে Scatter Plot-এ ব্যবহার করা যায়  
+✅ Clustering বা Pattern বের করার জন্য Scatter Plot কিভাবে সহায়তা করে  
+✅ Correlation এর ধারণা ও Visualization  
+✅ Outlier শনাক্তকরণ  
+✅ Practical Example দিয়ে বুঝানো হয়েছে Data Analysis context-এ
+
+
+### 🎯 ভিডিওতে ব্যবহার করা গুরুত্বপূর্ণ Topics:
+
+- `plt.scatter()` function-এর parameters ব্যাখ্যা সহ
+- Real-world example:
+  - 🎓 Study Hours vs Exam Score
+  - 🛍️ Product Price vs Number of Sales
+- কিভাবে color, size, transparency (alpha), এবং grid customize করা যায়
+- কিভাবে তিনটি cluster ভিজ্যুয়ালি পৃথক করা যায়
+
+
+### 📚 Resources - Notes, Slides & Video
+
+🎥 **Video Link – Matplotlib Day_06**  
+👉 [Watch the Full Video on YouTube](https://youtu.be/I7tUcsjtv5s?si=Cov_Iypmd7viJxZj)
+
+📓 **Jupyter Notebook (IPYNB)**  
+[🔗 Open in Colab](https://colab.research.google.com/) `# এখানে তোমার কোডের লিংক দিলে ভালো হয়`
+
+📝 **Class Notes (PDF)**  
+📥 [Download Notes](#)
+
+📑 **PPT Slides**  
+📥 [Download PPT](#)
+
+---
+
 ### 🔗 **Matplotlib Full Playlist**
 Explore the full series here —  
 👉 [Matplotlib Full Playlist - Dropout Programmer](https://www.youtube.com/playlist?list=PLGvQDTPXnnfpMu5R4VnXjTDi_yijPRPyl)
